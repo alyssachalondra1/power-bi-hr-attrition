@@ -2,6 +2,8 @@
 
 > Interactive HR analytics dashboard analyzing employee attrition patterns across **1,470 employees** and **31 features**, featuring a custom **4-factor Employee Attrition Risk scoring model** that segments the workforce into High / Medium / Low risk tiers for proactive retention strategy.
 
+![Dashboard Demo](demo.gif)
+*15-second walkthrough — filtering, drill-down, and cross-filtering in action.*
 ![Dashboard Overview](screenshots/01-overview-tooltip.png)
 *Custom tooltip on hover reveals segment-specific metrics; donut acts as cross-filter across all charts on the page.*
 
