@@ -179,7 +179,7 @@ power-bi-hr-attrition/
 1. Install **Power BI Desktop** (free) — [download here](https://powerbi.microsoft.com/desktop).
 2. Clone this repo:
    ```bash
-   git clone https://github.com/[your-username]/power-bi-hr-attrition.git
+   git clone https://github.com/Alyssachalondra1/power-bi-hr-attrition.git
    ```
 3. Open `HR_Attrition_Dashboard.pbix` in Power BI Desktop.
 4. The model auto-loads with the included CSV. Click visuals, slicers, and explore.
